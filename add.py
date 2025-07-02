@@ -5,6 +5,7 @@ x = 3.9999
 print(type(name))
 
 age = 33
+age1 = 55
 
 
 
